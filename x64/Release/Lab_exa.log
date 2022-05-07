@@ -1,0 +1,10 @@
+﻿  Estudiante.cpp
+C:\Users\LAB\source\repos\Lab_exa\Lab_exa\Estudiante.h(109,25): warning C4129: 'A': secuencia de escape de carácter no reconocida
+  Lab_exa.cpp
+C:\Users\LAB\source\repos\Lab_exa\Lab_exa\Estudiante.h(109,25): warning C4129: 'A': secuencia de escape de carácter no reconocida
+  Generando código
+  4 of 177 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+  Generación de código finalizada
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Lab_exa.vcxproj -> C:\Users\LAB\source\repos\Lab_exa\x64\Release\Lab_exa.exe
